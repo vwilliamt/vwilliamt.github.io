@@ -1,15 +1,10 @@
 # Welcome to My Portfolio
 
-## About Me
-Brief introduction about yourself and your work.
+## Latest Posts
+Check out my [blog posts](/blog)
 
-## Projects
-- **Project 1**: Description
-- **Project 2**: Description
+## About
+Learn more [about me](/about)
 
-## Skills
-- Programming languages you know
-- Technologies you work with
-
-## Contact
-How people can reach you
+## Featured Projects
+Coming soon...
